@@ -1,0 +1,20 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicky101270848/comp3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vicky101270848/comp3104/issues"
+  },
+  "homepage": "https://github.com/Vicky101270848/comp3104#readme"
+}
